@@ -1,1 +1,1 @@
-#Repositório para calcular pequenas operações de subtração, divisão, adição e multiplicação.
+# Repositório para calcular pequenas operações de subtração, divisão, adição e multiplicação.
